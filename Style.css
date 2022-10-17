@@ -3,12 +3,12 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Abnes';
-  src: url('./Assets/fonts/abnes.ttf');
+  src: url('abnes.ttf');
   color: aqua;
 }
 
 .background{
-  background-image: url(./Assets/images/Starfield.gif);
+  background-image: url(Starfield.gif);
   background-size: cover;
   background-position: center;
   height: 100vh;
