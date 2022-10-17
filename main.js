@@ -1,1 +1,0 @@
-alert('Bem vindo ao meu primeiro site. Clique ok para continuar!');
